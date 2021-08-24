@@ -1,0 +1,80 @@
+.HeroSection{
+    height: 75vh;
+    max-height: 800px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.HeroWrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.HeroSlider{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition-duration: 1s;
+    transform: scale(1.09);
+  
+}
+
+.HeroSlider.before{
+    content:  "";
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100vh;
+    bottom: 0vh;
+    left: 0;
+    overflow: hidden;
+    
+    opacity: 0;
+    transition-duration: 1s ease;
+}
+.HeroImage{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+ 
+}
+
+.HeroContent{
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    max-width: 1600px;
+    width: calc(100%-100px);
+}
+.SliderButtons{
+    position: absolute;
+ 
+    right: 50px;
+    display: flex;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+.SliderButtons2{
+    position: absolute;
+ 
+    left: 50px;
+    display: flex;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}

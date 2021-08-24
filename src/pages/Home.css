@@ -1,0 +1,36 @@
+.homepage-background{
+  background-image: url('../assets/image/background2.jpg');
+  background-size: cover;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+.design1{
+  padding-top: 30px;
+  background-size: cover;
+  height:400px;
+ 
+  margin-bottom: 10px;
+}
+
+.imge{
+background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url('../assets/image/forest.jpg'); 
+display: flex;
+background-size: cover;
+height: auto;
+margin-bottom: 40px;
+margin-top: 50px;
+}
+
+
+.homepage-pics{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url('../assets/image/eco-friendly.jpg'); 
+  background-size: cover;
+  height:400px;
+ 
+  margin-bottom: 10px;
+}
+.cards{
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
