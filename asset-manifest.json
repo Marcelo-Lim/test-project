@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/test-project/static/css/main.c97351b3.chunk.css",
+    "main.js": "/test-project/static/js/main.da1c1c79.chunk.js",
+    "main.js.map": "/test-project/static/js/main.da1c1c79.chunk.js.map",
+    "runtime-main.js": "/test-project/static/js/runtime-main.a8772326.js",
+    "runtime-main.js.map": "/test-project/static/js/runtime-main.a8772326.js.map",
+    "static/css/2.818011ed.chunk.css": "/test-project/static/css/2.818011ed.chunk.css",
+    "static/js/2.c0a090b0.chunk.js": "/test-project/static/js/2.c0a090b0.chunk.js",
+    "static/js/2.c0a090b0.chunk.js.map": "/test-project/static/js/2.c0a090b0.chunk.js.map",
+    "static/js/3.7f76485b.chunk.js": "/test-project/static/js/3.7f76485b.chunk.js",
+    "static/js/3.7f76485b.chunk.js.map": "/test-project/static/js/3.7f76485b.chunk.js.map",
+    "index.html": "/test-project/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/test-project/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c97351b3.chunk.css.map": "/test-project/static/css/main.c97351b3.chunk.css.map",
+    "static/js/2.c0a090b0.chunk.js.LICENSE.txt": "/test-project/static/js/2.c0a090b0.chunk.js.LICENSE.txt",
+    "static/media/Angelica.2f4c9e9c.jpg": "/test-project/static/media/Angelica.2f4c9e9c.jpg",
+    "static/media/Irish.38823b53.jpg": "/test-project/static/media/Irish.38823b53.jpg",
+    "static/media/Marcelo.0f4cf4a1.jpg": "/test-project/static/media/Marcelo.0f4cf4a1.jpg",
+    "static/media/Wes.e7cb2c29.jpg": "/test-project/static/media/Wes.e7cb2c29.jpg",
+    "static/media/backVid.e55bb996.mp4": "/test-project/static/media/backVid.e55bb996.mp4",
+    "static/media/Home.css": "/test-project/static/media/forest.1e5cde7b.jpg",
+    "static/media/clean-environment.e7db117e.jpg": "/test-project/static/media/clean-environment.e7db117e.jpg",
+    "static/media/community.1f30941c.jpg": "/test-project/static/media/community.1f30941c.jpg",
+    "static/media/mountains.3678a1e4.jpg": "/test-project/static/media/mountains.3678a1e4.jpg",
+    "static/media/ocean.7e3a32f7.jpg": "/test-project/static/media/ocean.7e3a32f7.jpg",
+    "static/media/photo2.6296817e.jpg": "/test-project/static/media/photo2.6296817e.jpg",
+    "static/media/photo3.06be5afe.jpg": "/test-project/static/media/photo3.06be5afe.jpg",
+    "static/media/AboutUs.css": "/test-project/static/media/plant.15ee0df7.jpg",
+    "static/media/trees1.2f057281.jpg": "/test-project/static/media/trees1.2f057281.jpg",
+    "static/media/video-1.59e75226.mp4": "/test-project/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8772326.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.c0a090b0.chunk.js",
+    "static/css/main.c97351b3.chunk.css",
+    "static/js/main.da1c1c79.chunk.js"
+  ]
+}
